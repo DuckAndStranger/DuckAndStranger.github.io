@@ -1,4 +1,4 @@
-All projects by DuckAndStranger. Все поекты от DuckAndStranger.
+# All projects by DuckAndStranger. Все поекты от DuckAndStranger.
 
 - Asteroids - Small indie Shoot’em up space game made with Godot Engine. [ENG]
 
